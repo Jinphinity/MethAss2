@@ -1,5 +1,5 @@
-// BOT_NAME: AdvancedBot
-// Authorship: [Your Name] (Student #[Number])
+// BOT_NAME: Bob Smith
+// Authorship: Jin Zhang (Student #000878821)
 // Date: 2025-10-31
 //
 // Strategy: Multi-factor opponent modeling with adaptive thresholds
